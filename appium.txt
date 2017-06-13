@@ -1,0 +1,5 @@
+[caps]
+ platformName = "ios"
+ platformVersion = "9.1"
+ deviceName = "iPhone 6s Plus"
+ app = "~/Documents/gif/pf/build/simulator/ItauPf-cal.app"
