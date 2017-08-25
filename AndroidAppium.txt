@@ -1,4 +1,4 @@
 [caps]
 platformName = "android"
-app = "/Users/wanderleybarroso/Documents/gif/pf/android-pf/app/build/outputs/apk/app-itau-debug.apk"
-deviceName = "Nexus 5 API 23"
+app = "/Users/wanderleylandim/Documents/gif/android-pf/app/build/outputs/apk/app-itau-debug.apk"
+deviceName = "Nexus_5_API_24"
